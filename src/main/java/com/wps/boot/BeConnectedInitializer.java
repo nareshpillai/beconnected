@@ -17,7 +17,7 @@ public class BeConnectedInitializer extends AbstractAnnotationConfigDispatcherSe
 
 	@Override
 	protected String[] getServletMappings() {
-		return new String[] { "/beConnected" };
+		return new String[] { "/" };
 	}
 	
 
